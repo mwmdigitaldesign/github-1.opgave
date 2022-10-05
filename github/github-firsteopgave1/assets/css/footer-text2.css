@@ -1,0 +1,11 @@
+.footer-text2{
+
+    grid-row: 12/span 1;
+    grid-column: 7/span 6;
+
+    
+    border-top: var(--border-thin);
+    font-size: 60%;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}

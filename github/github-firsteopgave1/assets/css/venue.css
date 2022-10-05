@@ -1,0 +1,16 @@
+.venue{
+    grid-row: 1/span 3 ;
+    grid-column: 1/span 5;
+    
+    
+    
+    font-size: 1,5rem;
+}
+
+.venue p{
+    font-size: 200%;
+    
+}
+.venue-p-span{
+    font-weight: bolder;
+}

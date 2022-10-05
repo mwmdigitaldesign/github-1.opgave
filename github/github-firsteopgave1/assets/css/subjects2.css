@@ -1,0 +1,14 @@
+.subjects2{
+    display: flex;
+    grid-row: 6 /span 3;
+    grid-column: 1 /span 3;
+
+    
+    border-right: var(--border-thin);
+    border-bottom: var(--border-thin);
+
+}
+
+.subjects2 h2{
+    padding-bottom: 20px;
+}

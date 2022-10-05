@@ -1,0 +1,19 @@
+.time{
+    grid-row: 1/span 3;
+    grid-column: 6/span 2;
+
+    font-size: 2em;
+    writing-mode: vertical-rl;
+
+    display: flex;
+    align-items: center;
+
+    border-left: var(--border-thin);
+    border-right: var(--border-thin);
+
+
+    padding-top: 60px;
+    padding-bottom: 60px;
+    
+
+}

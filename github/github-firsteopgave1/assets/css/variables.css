@@ -1,0 +1,13 @@
+:root{
+    --color-base: grey;
+    --color-accent: cadetblue;
+    --color-dark: black;
+    --color-light: white;
+
+    --font-base: 'Cormorant', serif;
+    --font-accent: 'Dancing Script', cursive;
+
+    --border-thin: thin solid var(--color-dark)
+
+
+}

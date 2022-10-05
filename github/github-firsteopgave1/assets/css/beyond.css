@@ -1,0 +1,32 @@
+.beyond{
+    grid-row: 6/span 6;
+    grid-column: 4 /span 6;
+   font-size: 230%;
+   font-weight: bolder;
+   
+}
+
+.beyond-span{
+    font-style: italic;
+    text-transform: lowercase;
+    font-size: large;
+    
+}
+
+.beyond-span-monday{
+    font-size: x-large;
+}
+
+.beyond h2{
+    font-weight: 600;
+}
+
+.beyond-p{
+    font-family: var(--font-accent);
+    font-size: x-large;
+    padding: 0%;
+}
+
+.beyond-number{
+    font-size: 250%;
+}

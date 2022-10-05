@@ -1,0 +1,15 @@
+.subject{
+    display: flex;
+    grid-row: 1/span 3;
+    grid-column: 8/span 5;
+
+    
+    font-family: var(--font-accent);
+    font-size: 1,5rem;
+
+    
+}
+
+.subject p{
+    font-size: 1,5rem;
+}
